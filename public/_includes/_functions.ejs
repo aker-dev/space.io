@@ -1,0 +1,12 @@
+Functions
+
+<% function renderCard(slug) {
+	boxSize = public.pages._data[slug].boxSize;
+	if(boxSize == "s" || boxSize == "m" ) {
+		return "card col-lg-3 " + boxSize;
+	} else if (boxSize == "l" || boxSize == "xl" ) {
+		return "card col-lg-6 " + boxSize;
+	} else {
+		return "";
+	}
+} %>

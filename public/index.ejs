@@ -1,0 +1,42 @@
+<div class="main grid">
+
+	<%
+	for(var slug in public.pages._data){ %>
+	<% var tagID = public.pages._data[slug].tagID ; %>
+
+		<div class ="card <%- returnColumnClasse(slug) %>">
+			<div class="card--body <%- returnCardClasse(slug) %>">
+			<div class="card--body--title card--body--title_<%= tags[tagID].color %>">
+				<div class="card--tag <%= tags[tagID].icon %>"> <%= tags[tagID].title %> </div>
+				<h2><%= public.pages._data[slug].title %></h2>
+			</div>
+			<div class="card--body--description">
+			<%- partial("pages/" + slug) %>
+                <a class="btn btn-page btn-lg btn-<%= tags[tagID].color  %> icon-forward" data-dest-url="/pages/<%= slug %>" href="#"></a>
+			</div>			  
+			</div>
+		</div>
+	<% };
+	%>
+
+</div>
+
+<%- partial("_includes/_modal") %>
+
+
+<% function returnColumnClasse(slug) {
+	boxSize = public.pages._data[slug].boxSize;
+	tagID = public.pages._data[slug].tagID;
+	if(boxSize == "s" || boxSize == "m" ) {
+		return "col-md-3 " + "tag-id-" + tagID;
+	} else if (boxSize == "l" || boxSize == "xl" ) {
+		return "col-md-6 " + "tag-id-" + tagID;
+	} else {
+		return "";
+	}
+} %>
+
+<% function returnCardClasse(slug) {
+	boxSize = public.pages._data[slug].boxSize;
+	return "card--body_" + boxSize;
+} %>

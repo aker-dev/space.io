@@ -1,0 +1,10 @@
+<ul>
+			  <% for (var slug in public.pages._data) { %>
+			    <% var page = public.pages._data[slug] %> 
+			    <li>
+			      <a href="<%= slug %>" class="<%= page.size %>">
+			        <%= page.title %>
+			      </a>
+			    </li>
+			  <% } %>
+			</ul>
