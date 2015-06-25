@@ -9,77 +9,77 @@
 	  	"1" : {
 	  		"title": "logement",
 	  		"color": "primary",
-	  		"icon": "icon-bus"
+	  		"icon": "icon-building-filled"
 	  	},
 	  	"2" : {
 	  		"title": "aides financières",
 	  		 "color": "info",
-	  		"icon": "icon-bank"
+	  		"icon": "icon-euro"
 	  	},
 	  	"3" : {
 	  		"title": "action sociale",
 	  		"color": "success",
-	  		"icon": "icon-chat-empty"
+	  		"icon": "icon-thumbs-up-alt"
 	  	},
 	  	"4" : {
 	  		"title": "international",
 	  		"color": "warning",
-	  		"icon": "icon-soccer-ball"
+	  		"icon": "icon-globe"
 	  	},
 	  	"5" : {
 	  		"title": "orientation / insertion",
 	  		"color": "danger",
-	  		"icon": "icon-food"
+	  		"icon": "icon-users"
 	  	},
 	  	"6" : {
 	  		"title": "formation",
 	  		"color": "primary",
-	  		"icon": "icon-food"
+	  		"icon": "icon-graduation-cap"
 	  	},
 	  	"7" : {
 	  		"title": "recherche",
 	  		"color": "info",
-	  		"icon": "icon-food"
+	  		"icon": "icon-beaker"
 	  	},
 	  	"8" : {
 	  		"title": "job",
 	  		"color": "success",
-	  		"icon": "icon-food"
+	  		"icon": "icon-suitcase"
 	  	},
 	  	"9" : {
 	  		"title": "santé",
 	  		"color": "warning",
-	  		"icon": "icon-food"
+	  		"icon": "icon-heartbeat"
 	  	},
 	  	"10" : {
 	  		"title": "associations",
 	  		"color": "danger",
-	  		"icon": "icon-food"
+	  		"icon": "icon-chat"
 	  	},
 	  	"11" : {
 	  		"title": "culture",
 	  		"color": "primary",
-	  		"icon": "icon-food"
+	  		"icon": "icon-book"
 	  	},
 	  	"12" : {
 	  		"title": "sport",
 	  		"color": "info",
-	  		"icon": "icon-food"
+	  		"icon": "icon-soccer-ball"
 	  	},
 	  	"13" : {
 	  		"title": "medias",
 	  		"color": "success",
-	  		"icon": "icon-food"
+	  		"icon": "icon-newspaper"
 	  	},
 	  	"14" : {
 	  		"title": "transports",
 	  		"color": "warning",
-	  		"icon": "icon-food"
+	  		"icon": "icon-bus"
 	  	},
 	  	"15" : {
 	  		"title": "bons plans",
 	  		"color": "danger",
-	  		"icon": "icon-food"
+	  		"icon": "icon-star"
 	  	}
 	  }
   }

@@ -1,27 +1,35 @@
-# (S)PACE CROUS
+(S)PACE CROUS
+=============================================================================
 v. 0.0.0
 by adrien revel
+
+## About
+This is a kiosk project for the CROUS of Montpellier developped with harp.js
 
 ## License
 
 ## Roadmap
 
-## Liste of tags
+## Basic icons
+* icon-forward
+* icon-spin3
+* icon-home
 
-| id 	| name                    	| color   	| icon                      |
+## List of tags
+| id 	| name                    	| color   	| icon                     	|
 |----	|-------------------------	|---------	|--------------------------	|
-| 1  	| logement                	| primary 	| icon-                    	|
-| 2  	| aides financières       	| info    	| icon-                    	|
-| 3  	| action sociale          	| success 	| icon-                    	|
-| 4  	| international           	| warning 	| icon-                    	|
-| 5  	| orientation / insertion 	| danger  	| icon-                    	|
-| 6  	| formation               	| primary 	| icon-                    	|
-| 7  	| recherche               	| info    	| icon-                    	|
-| 8  	| job                     	| success 	| icon-                    	|
-| 9  	| santé                   	| warning 	| icon-                    	|
-| 10 	| associations            	| danger  	| icon-                    	|
-| 11 	| culture                 	| primary 	| icon-                    	|
-| 12 	| sport                   	| info    	| icon-                    	|
-| 13 	| medias                  	| success 	| icon-                    	|
-| 14 	| transports              	| warning 	| icon-                    	|
-| 15 	| bons plans              	| danger  	| icon-                    	|
+| 1  	| logement                	| primary 	| icon-building-filled     	|
+| 2  	| aides financières       	| info    	| icon-euro               	|
+| 3  	| action sociale          	| success 	| icon-thumbs-up-alt       	|
+| 4  	| international           	| warning 	| icon-globe               	|
+| 5  	| orientation / insertion 	| danger  	| icon-users               	|
+| 6  	| formation               	| primary 	| icon-graduation-cap      	|
+| 7  	| recherche               	| info    	| icon-beaker              	|
+| 8  	| job                     	| success 	| icon-suitcase            	|
+| 9  	| santé                   	| warning 	| icon-heartbeat           	|
+| 10 	| associations            	| danger  	| icon-chat                	|
+| 11 	| culture                 	| primary 	| icon-book                	|
+| 12 	| sport                   	| info    	| icon-soccer-ball         	|
+| 13 	| medias                  	| success 	| icon-newspaper           	|
+| 14 	| transports              	| warning 	| icon-bus                 	|
+| 15 	| bons plans              	| danger  	| icon-star                	|
