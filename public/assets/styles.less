@@ -128,7 +128,24 @@ CARDS
 
 .card--body_xl {
 	height: @card-base-height*2+@offset-default;
-}
+    
+    .card--body--description {
+      margin-top: 60px;
+
+            p {
+          font-family: @bariol;
+          font-size: 24px;
+        }
+
+         p.lead {
+          font-family: @bariol-bold;
+          font-size: 36px;
+        }
+
+
+    }
+  }
+
 
 .card--body--title {
   min-height: 50px;
@@ -142,7 +159,7 @@ CARDS
 }
 
 .card--body--description {
-    padding: 10px;
+    padding: 15px;
 }
 
 .card--body--title_primary {
