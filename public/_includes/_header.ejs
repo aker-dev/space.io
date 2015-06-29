@@ -20,4 +20,8 @@
     <![endif]-->
   </head>
 
+<% if(environment == "production") { %>
   <body role="document" oncontextmenu="return false">
+    <% } else { %>
+  <body role="document">
+<% } %>

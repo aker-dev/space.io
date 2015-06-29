@@ -8,12 +8,12 @@
     "tags": {
 	  	"1" : {
 	  		"title": "logement",
-	  		"color": "primary",
+	  		"color": "info",
 	  		"icon": "icon-building-filled"
 	  	},
 	  	"2" : {
 	  		"title": "aides financières",
-	  		 "color": "info",
+	  		 "color": "primary",
 	  		"icon": "icon-euro"
 	  	},
 	  	"3" : {
@@ -53,12 +53,12 @@
 	  	},
 	  	"10" : {
 	  		"title": "associations",
-	  		"color": "danger",
+	  		"color": "primary",
 	  		"icon": "icon-chat"
 	  	},
 	  	"11" : {
 	  		"title": "culture",
-	  		"color": "primary",
+	  		"color": "danger",
 	  		"icon": "icon-book"
 	  	},
 	  	"12" : {
