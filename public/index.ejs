@@ -10,7 +10,7 @@
 				<div class="card--tag <%= tags[tagID].icon %>"> <%= tags[tagID].title %> </div>
 				<h2><%= public.pages._data[slug].title %></h2>
 			</div>
-			<div class="card--body--description">
+			<div class="card--body--description text-<%= tags[tagID].color %>">
 			<%- partial("pages/" + slug) %>
 
 			<%= public.pages._data[slug].body %>

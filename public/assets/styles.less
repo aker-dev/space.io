@@ -4,9 +4,9 @@
 /*
 COLOR VARIABLES
 */
-@topbar-bg-color: rgba(200,200,200,0.8);
-@card-bg-color: #EEE;
-@background: #555;
+@topbar-bg-color: rgba(33,74,104,0.6);
+@card-bg-color: #fff;
+@background: #214a68;
 @dev-hl: yellow;
 /*
 SIZE VARIABLES
@@ -33,6 +33,9 @@ body {
   background-color: @background;
   overflow:hidden-scroll;
 }
+.logo {
+  margin-top: -15px;
+  }
 
 .topbar {
 	position: fixed;
@@ -46,9 +49,12 @@ body {
 }
 
 .btn {
+  font-family: @bariol-bold;
   text-transform: uppercase;
   margin-left: @offset-mini;
+  margin-bottom: @offset-mini;
 }
+
 
 .loader {
   background:url(../assets/ajax-loader.gif) center center no-repeat;
@@ -88,19 +94,34 @@ CARDS
   margin-bottom: @offset-default;
   border-bottom-left-radius: @offset-mini;
   border-bottom-right-radius: @offset-mini;
-  box-shadow: 0px 0px 20px 0px @gray-dark;
+//  box-shadow: 0px 0px 20px 0px @gray-dark;
 }
 
 .card--body_s {
 	height: @card-base-height;
+
+  .card--body--description {
+    font-family: @bariol-light-italic;
+    font-size: 40px;
+  }
 }
 
 .card--body_m {
 	height: @card-base-height*2+@offset-default;
+
+    .card--body--description {
+    font-family: @bariol-light;
+    font-size: 60px;
+  }
 }
 
 .card--body_l {
 	height: @card-base-height;
+
+    .card--body--description {
+    font-family: @bariol-light;
+    font-size: 48px;
+  }
 }
 
 .card--body_xl {
@@ -114,31 +135,45 @@ CARDS
   color: white;
 }
 
+.card--body--title h2 {
+  margin-top: 5px;
+}
+
 .card--body--description {
     padding: 10px;
 }
 
 .card--body--title_primary {
   background-color: @brand-primary;
+  border-bottom: 1px solid darken(@brand-primary, 12%);
 }
 
 .card--body--title_success {
   background-color: @brand-success;
+  border-bottom: 1px solid darken(@brand-success, 12%);
+
 }
 
 .card--body--title_info {
   background-color: @brand-info;
+  border-bottom: 1px solid darken(@brand-info, 12%);
+
 }
 
 .card--body--title_warning {
   background-color: @brand-warning;
+  border-bottom: 1px solid darken(@brand-warning, 12%);
+
 }
 
 .card--body--title_danger {
   background-color: @brand-danger;
+  border-bottom: 1px solid darken(@brand-danger, 12%);
+
 }
 
 .card--tag {
+  font-size: 18px;
 
 }
 
