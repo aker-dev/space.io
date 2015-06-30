@@ -20,19 +20,21 @@
     <![endif]-->
   </head>
 
-  <body role="document">
+
+  <body role="document" oncontextmenu="return false">
+    
 <div class="topbar container-fluid navbar-fixed-top">
     <div class="row">
-        <div class="col-md-4" data-pg-collapsed>
-            <a class="navbar-brand" href="#">(S)PACE CROUS</a>                      
+        <div class="col-md-3" data-pg-collapsed>
+            <img src = "images/index-logo.svg" class="img-responsive logo" width="600" height="160"/>                 
         </div>
-        <div class="col-md-8 text-right">
-            <a class="btn btn-tag btn-default btn-lg tag-id-all icon-home" href="#">All</a>
+        <div class="col-md-9">
+            <a class="btn btn-tag btn-default btn-lg tag-id-all icon-home" href="#">Tous</a>
 
             
-                <a class="btn btn-tag btn-lg btn-primary tag-id-1 icon-building-filled" data-tag-id="1" href="#"> logement </a>
+                <a class="btn btn-tag btn-lg btn-info tag-id-1 icon-building-filled" data-tag-id="1" href="#"> logement </a>
             
-                <a class="btn btn-tag btn-lg btn-info tag-id-2 icon-euro" data-tag-id="2" href="#"> aides financières </a>
+                <a class="btn btn-tag btn-lg btn-primary tag-id-2 icon-euro" data-tag-id="2" href="#"> aides financières </a>
             
                 <a class="btn btn-tag btn-lg btn-success tag-id-3 icon-thumbs-up-alt" data-tag-id="3" href="#"> action sociale </a>
             
@@ -48,9 +50,9 @@
             
                 <a class="btn btn-tag btn-lg btn-warning tag-id-9 icon-heartbeat" data-tag-id="9" href="#"> santé </a>
             
-                <a class="btn btn-tag btn-lg btn-danger tag-id-10 icon-chat" data-tag-id="10" href="#"> associations </a>
+                <a class="btn btn-tag btn-lg btn-primary tag-id-10 icon-chat" data-tag-id="10" href="#"> associations </a>
             
-                <a class="btn btn-tag btn-lg btn-primary tag-id-11 icon-book" data-tag-id="11" href="#"> culture </a>
+                <a class="btn btn-tag btn-lg btn-danger tag-id-11 icon-book" data-tag-id="11" href="#"> culture </a>
             
                 <a class="btn btn-tag btn-lg btn-info tag-id-12 icon-soccer-ball" data-tag-id="12" href="#"> sport </a>
             
@@ -79,6 +81,22 @@
     <script src="assets/bootstrap/assets/js/ie10-viewport-bug-workaround.js"></script>
   	-->
     <script src="assets/scripts.js"></script>
+
+    <!-- Piwik -->
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="//stats.dymaxion.xyz/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', 5]);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript><p><img src="//stats.dymaxion.xyz/piwik.php?idsite=5" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
 
   </body>
 </html>

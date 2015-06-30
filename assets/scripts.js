@@ -11,13 +11,13 @@ $(function() {
 			columnWidth: '.col-md-3'
 		  }
 	});
-	$grid.isotope('shuffle');
+	// $grid.isotope('shuffle');
 
 	// filtres isotopes sur les boutons
 	$('.btn-tag').click(function(event) {
 		if ($(this).hasClass( "tag-id-all" )) {
 			$grid.isotope({ filter: '*' });
-			$grid.isotope('shuffle');
+		//	$grid.isotope('shuffle');
 		}
 		if ($(this).attr( "data-tag-id")) {
 			$grid.isotope({ filter: '.tag-id-' + $(this).attr( "data-tag-id") });
