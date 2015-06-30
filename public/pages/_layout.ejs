@@ -1,18 +1,39 @@
 <%- partial("../_includes/_header-page") %>
 
-<div class="col-md-3 full-height">
-<a class="btn btn-home btn-default btn-lg tag-id-all icon-home" data-dismiss="modal" href="#"></a>
+<div class="col-md-3 full-height text-center">
 
-<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<img src = "images/index-logo.svg" class="img-responsive logo" width="600" height="160"/>
+
+<a class="btn btn-home btn-default btn-lg btn-warning tag-id-all icon-home" data-dismiss="modal"></a>
+
 <div class="addthis_sharing_toolbox" data-url="<%= url %>" data-title="<%= title %>"></div>
+
 
 </div>
 
 
 
 <div class="col-md-9 full-height">
-<div class="loader full-height">
-<iframe class="full-height" src="<%= url %>" sandbox="allow-same-origin allow-forms"></iframe>
+
+	<% var pageTitleColor = tags[tagID].color ;
+	var pageTitleIcon = tags[tagID].icon ;
+	 var pageTitleTitle = tags[tagID].title; %>
+
+
+	<div class="page--title page--title_<%= pageTitleColor %>">
+
+		<div class="page--tag <%= pageTitleIcon %>"> <%= pageTitleTitle %> </div>
+
+		<h2><%= title %></h2>
+
+	</div>
+
+
+
+<div class="loader">
+<iframe src="<%= url %>" sandbox="allow-same-origin allow-forms"></iframe>
 </div>
+
 </div>
 <%- partial("../_includes/_footer-page") %>
+
