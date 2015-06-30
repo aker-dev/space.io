@@ -1,5 +1,4 @@
 <div class="main grid">
-
 <%- partial("_includes/_card-home") %>
 
 	<%
@@ -7,7 +6,7 @@
 	<% var tagID = public.pages._data[slug].tagID ; %>
 
 		<div class ="card <%- returnColumnClasse(slug) %>">
-			<div class="card--body <%- returnCardClasse(slug) %>">
+			<div class="card--body <%-returnCardClasse(slug) %>">
 			<div class="card--body--title card--body--title_<%= tags[tagID].color %>">
 				<div class="card--tag <%= tags[tagID].icon %>"> <%= tags[tagID].title %> </div>
 				<h2><%= public.pages._data[slug].title %></h2>

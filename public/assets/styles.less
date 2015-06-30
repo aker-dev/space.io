@@ -34,6 +34,7 @@ body {
   overflow:hidden-scroll;
   user-select: none;
 }
+
 .logo {
   margin-top: -15px;
   }
@@ -41,7 +42,7 @@ body {
 .topbar {
 	position: fixed;
   padding-top: @offset-default;
-	height: @topbar-height;
+	min-height: @topbar-height;
 	background-color: @topbar-bg-color;
 }
 
@@ -104,7 +105,7 @@ CARDS
 
   .card--body--description {
     font-family: @bariol-light;
-    font-size: 40px;
+    font-size: 36px;
   }
 }
 
@@ -113,7 +114,7 @@ CARDS
 
     .card--body--description {
     font-family: @bariol-light;
-    font-size: 60px;
+    font-size: 48px;
   }
 }
 
@@ -122,7 +123,7 @@ CARDS
 
     .card--body--description {
     font-family: @bariol-light;
-    font-size: 48px;
+    font-size: 42px;
   }
 }
 
@@ -130,9 +131,9 @@ CARDS
 	height: @card-base-height*2+@offset-default;
     
     .card--body--description {
-      margin-top: 60px;
+      margin-top: 30px;
 
-            p {
+         p {
           font-family: @bariol;
           font-size: 24px;
         }
