@@ -2,6 +2,9 @@
     "1": {
         "title": "CROUS",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "m",
         "body": "Se loger en cité ou résidence universitaire",
         "url": "http://www.crous-montpellier.fr/logements/le-parc-de-logement/"
@@ -9,6 +12,9 @@
     "2": {
         "title": "CAF",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
         "body": "Tout savoir sur l’allocation logement",
         "url": "http://www.caf.fr/actualites/2014/etudiants-nos-conseils-pour-bien-remplir-votre-demande-d-aide-au-logement"
@@ -16,13 +22,19 @@
     "3": {
         "title": "CLE",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Caution Locative Etudiante : solution garantie !",
+        "body": "Caution Locative Etudiante : solution garantie !",
         "url": "http://www.lokaviz.fr/n/a-qui-s-adresse-la-cle/n:473"
     },
     "4": {
         "title": "CROUS-LOKAVIZ",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "m",
         "body": "La centrale du logement étudiant",
         "url": "http://www.lokaviz.fr/"
@@ -30,34 +42,49 @@
     "5": {
         "title": "CRIJ",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
         "body": "Trouver son 1er logement étudiant",
         "url": "http://www.logement.informationjeunesselr.fr/"
     },
     "6": {
-        "title": "ANIL /ADIL",
+        "title": "ANIL / ADIL",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Locataire : quels sont vos droits ?",
+        "body": "Locataire : quels sont vos droits ?",
         "url": "http://www.anil.org/profil/vous-etes-locataire/se-loger/"
     },
     "7": {
         "title": "GUIDE LOGEMENT",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "En recherche de logement ? Suivez le guide !",
+        "body": "En recherche de logement ? Suivez le guide !",
         "url": "http://www.espace-etudiant.com/guide_du_logement_etudiant.asp"
     },
     "8": {
         "title": "COLOCATION",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Trouvez un coloc en quelques clics !",
+        "body": "Trouvez un coloc en quelques clics !",
         "url": "http://colocation-montpellier.net/"
     },
     "9": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
         "body": "Cle Montpellier Logement",
         "url": "http://www.boutique-logement-montpellier.org/LA-VILLE-DE-MONTPELLIER-SOUTIENT.html"
@@ -65,6 +92,9 @@
     "10": {
         "title": "UNHAJ",
         "tagID": 1,
+        "tagName": "logement",
+        "tagColor": "primary",
+        "tagIcon": "icon-building-filled ",
         "boxSize": "s",
         "body": "Union Nationale pour l’Habitat des Jeunes",
         "url": "http://www.logement-jeunes.unhaj.org/index.php?id=19"
@@ -72,6 +102,9 @@
     "11": {
         "title": "CROUS",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "m",
         "body": "Bourse de l’enseignement supérieur",
         "url": "http://www.crous-montpellier.fr/bourses/conditions-generales-dattribution-dune-bourse-de-lenseignement-superieur/"
@@ -79,6 +112,9 @@
     "12": {
         "title": "CROUS",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "l",
         "body": "Étudiants en Emploi Avenir Professeur",
         "url": "http://www.cnous.fr/bourses/les-aides/"
@@ -86,13 +122,19 @@
     "13": {
         "title": "CROUS",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "l",
-        "body": "Étudier à l’étranger, préparer un concours : quelles aides ?",
+        "body": "Étudier à l’étranger, préparer un concours : quelles aides ?",
         "url": "http://www.crous-montpellier.fr/bourses/autres-aides-financieres/aides-non-gerees-par-le-crous/"
     },
     "14": {
         "title": "UNIVERSITÉ MONTPELLIER",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Le FSDIE, une aide au financement des projets étudiants",
         "url": "http://www.umontpellier.fr/vie-etudiante/bureau-de-la-vie-etudiante/fonds-de-solidarite-et-de-developpement-des-initiatives-etudiantes-fsdie/"
@@ -100,13 +142,19 @@
     "15": {
         "title": "REGION LANGUEDOC-ROUSSILLON",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "Etudiants en filières sanitaires et sociales",
+        "body": "Étudiants en filières sanitaires et sociales",
         "url": "http://www.laregion.fr/119-la-bourse-regionale-pour-les-formations-sanitaires-et-sociales.htm"
     },
     "16": {
         "title": "CAMPUS FRANCE",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Découvrez tous les programmes de bourses",
         "url": "http://www.campusfrance.org/fria/bourse/index.html#app=faac&193-si=0"
@@ -114,20 +162,29 @@
     "17": {
         "title": "PRÊT ÉTUDIANT",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "L’Etat vous accompagne !",
+        "body": "L’État vous accompagne !",
         "url": "http://vosdroits.service-public.fr/particuliers/F986.xhtml"
     },
     "18": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "Aide au permis B pour les Montpelliérains !",
+        "body": "Aide au permis B pour les Montpelliérains !",
         "url": "http://www.montpellier.fr/3852-aides-pour-les-jeunes.htm"
     },
     "19": {
         "title": "CULTURE ACTIONS",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Conseil, accompagnement et financement de projet étudiant",
         "url": "http://www.crous-montpellier.fr/culture/aides-aux-projets/culture-actions/"
@@ -135,6 +192,9 @@
     "20": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Bourses Initiative Jeunes : le dispostif financier de la ville de Montpellier",
         "url": "http://www.montpellier.fr/3852-aides-pour-les-jeunes.htm"
@@ -142,6 +202,9 @@
     "21": {
         "title": "CAP JEUNES",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "L’aide financière aux projets jeunes par le Département de l’Hérault",
         "url": "http://lheraultsebougepourtoi.fr/citoyens/cap-jeunes"
@@ -149,6 +212,9 @@
     "22": {
         "title": "FONDATION DE FRANCE",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Les bourses Déclics Jeunes",
         "url": "http://www.fondationdefrance.org/Nos-Actions/Bourses-et-Prix/Les-bourses-Declics-jeunes-de-la-Fondation-de-France"
@@ -156,6 +222,9 @@
     "23": {
         "title": "PROJAIDE",
         "tagID": 2,
+        "tagName": "aides financières",
+        "tagColor": "info",
+        "tagIcon": "icon-euro",
         "boxSize": "s",
         "body": "Le réseau social de sporteurs de projets !",
         "url": "http://projaide.fr/"
@@ -163,6 +232,9 @@
     "24": {
         "title": "CROUS",
         "tagID": 3,
+        "tagName": "action sociale",
+        "tagColor": "success",
+        "tagIcon": "icon-thumbs-up-alt ",
         "boxSize": "m",
         "body": "Des assistants sociaux à votre écoute",
         "url": "http://www.crous-montpellier.fr/aides-sociales/"
@@ -170,6 +242,9 @@
     "25": {
         "title": "CROUS",
         "tagID": 3,
+        "tagName": "action sociale",
+        "tagColor": "success",
+        "tagIcon": "icon-thumbs-up-alt ",
         "boxSize": "l",
         "body": "Tout savoir sur les aides spécifiques",
         "url": "http://www.crous-montpellier.fr/bourses/autres-aides-financieres/aidespecifique/"
@@ -177,6 +252,9 @@
     "26": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 3,
+        "tagName": "action sociale",
+        "tagColor": "success",
+        "tagIcon": "icon-thumbs-up-alt ",
         "boxSize": "s",
         "body": "Espace Montpellier Jeunesse",
         "url": "http://www.montpellier.fr/470-espace-montpellier-jeunesse.htm"
@@ -184,6 +262,9 @@
     "27": {
         "title": "CROUS",
         "tagID": 4,
+        "tagName": "international ",
+        "tagColor": "warning",
+        "tagIcon": "icon-globe ",
         "boxSize": "m",
         "body": "Accueil des étudiants internationaux",
         "url": "http://www.crous-montpellier.fr/international/"
@@ -191,6 +272,9 @@
     "28": {
         "title": "UNIVERSITÉ MONTPELLIER",
         "tagID": 4,
+        "tagName": "international ",
+        "tagColor": "warning",
+        "tagIcon": "icon-globe ",
         "boxSize": "s",
         "body": "Une université ouverte sur le monde",
         "url": "http://www.umontpellier.fr/international/"
@@ -198,6 +282,9 @@
     "29": {
         "title": "COMUE",
         "tagID": 4,
+        "tagName": "international ",
+        "tagColor": "warning",
+        "tagIcon": "icon-globe ",
         "boxSize": "s",
         "body": "Accueil des étudiants et chercheurs internationaux",
         "url": "http://www.languedoc-roussillon-universites.fr/international/accueil-international"
@@ -205,6 +292,9 @@
     "30": {
         "title": "CAMPUS FRANCE",
         "tagID": 4,
+        "tagName": "international ",
+        "tagColor": "warning",
+        "tagIcon": "icon-globe ",
         "boxSize": "s",
         "body": "Programmes de bourses",
         "url": "http://www.campusfrance.org/fria/bourse/index.html#app=faac&193-si=0"
@@ -212,20 +302,29 @@
     "31": {
         "title": "PARRAINAGE INTERNATIONAL",
         "tagID": 4,
+        "tagName": "international ",
+        "tagColor": "warning",
+        "tagIcon": "icon-globe ",
         "boxSize": "s",
-        "body": "Devenez parrain ou marraine d’un étudiant !",
+        "body": "Devenez parrain ou marraine d’un étudiant !",
         "url": "http://www.parrainage-international.fr/"
     },
     "32": {
         "title": "UNIVERSITÉ MONTPELLIER",
         "tagID": 5,
+        "tagName": "orientation / insertion",
+        "tagColor": "danger",
+        "tagIcon": "icon-users ",
         "boxSize": "s",
-        "body": "Des questions sur vos études ? Le SCUIO y répond !",
+        "body": "Des questions sur vos études ? Le SCUIO y répond !",
         "url": "http://www.umontpellier.fr/formation/information-orientation-insertion/"
     },
     "33": {
         "title": "ORIENTATION POUR TOUS",
         "tagID": 5,
+        "tagName": "orientation / insertion",
+        "tagColor": "danger",
+        "tagIcon": "icon-users ",
         "boxSize": "s",
         "body": "Toutes les infos sur les formations et les métiers",
         "url": "http://www.orientation-pour-tous.fr/"
@@ -233,6 +332,9 @@
     "34": {
         "title": "ONISEP",
         "tagID": 5,
+        "tagName": "orientation / insertion",
+        "tagColor": "danger",
+        "tagIcon": "icon-users ",
         "boxSize": "s",
         "body": "Le site officiel d’information sur les métiers et les formations",
         "url": "http://www.onisep.fr/"
@@ -240,6 +342,9 @@
     "35": {
         "title": "PÉPITE LR",
         "tagID": 5,
+        "tagName": "orientation / insertion",
+        "tagColor": "danger",
+        "tagIcon": "icon-users ",
         "boxSize": "s",
         "body": "",
         "url": "http://www.pepite-lr.fr/"
@@ -247,6 +352,9 @@
     "36": {
         "title": "CALES",
         "tagID": 6,
+        "tagName": "formation",
+        "tagColor": "primary",
+        "tagIcon": "icon-graduation-cap",
         "boxSize": "s",
         "body": "Toutes les formations en Languedoc-Roussillon",
         "url": "http://www.formations-lr.fr/fr/index.html"
@@ -254,6 +362,9 @@
     "37": {
         "title": "ESPE LANGUEDOC-ROUSSILLON",
         "tagID": 6,
+        "tagName": "formation",
+        "tagColor": "primary",
+        "tagIcon": "icon-graduation-cap",
         "boxSize": "s",
         "body": "Formations des personnels enseignants",
         "url": "http://www.espe-lr.fr/"
@@ -261,6 +372,9 @@
     "38": {
         "title": "ONISEP",
         "tagID": 6,
+        "tagName": "formation",
+        "tagColor": "primary",
+        "tagIcon": "icon-graduation-cap",
         "boxSize": "s",
         "body": "Le site officiel d’information sur les métiers et les formations",
         "url": "http://www.onisep.fr/"
@@ -268,6 +382,9 @@
     "39": {
         "title": "COMUE",
         "tagID": 7,
+        "tagName": "recherche",
+        "tagColor": "info",
+        "tagIcon": "icon-beaker",
         "boxSize": "s",
         "body": "Communauté d’Universités et d’Établissements",
         "url": "http://www.languedoc-roussillon-universites.fr/recherche"
@@ -275,13 +392,19 @@
     "40": {
         "title": "THÈSE EN 180 SECONDES",
         "tagID": 7,
+        "tagName": "recherche",
+        "tagColor": "info",
+        "tagIcon": "icon-beaker",
         "boxSize": "s",
-        "body": "Un défi pour les doctorants !",
+        "body": "Un défi pour les doctorants !",
         "url": "http://mt180.fr/"
     },
     "41": {
         "title": "TRANSFERTS LR",
         "tagID": 7,
+        "tagName": "recherche",
+        "tagColor": "info",
+        "tagIcon": "icon-beaker",
         "boxSize": "s",
         "body": "Innovation en Languedoc-Roussillon",
         "url": "http://www.transferts-lr.org/"
@@ -289,6 +412,9 @@
     "42": {
         "title": "COLLÈGE DOCTORAL",
         "tagID": 7,
+        "tagName": "recherche",
+        "tagColor": "info",
+        "tagIcon": "icon-beaker",
         "boxSize": "s",
         "body": "Recherche, Innovation en Languedoc-Roussillon",
         "url": "http://collegedoctoral.languedoc-roussillon-universites.fr/"
@@ -296,6 +422,9 @@
     "43": {
         "title": "CROUS-JOBAVIZ",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "m",
         "body": "La centrale du job étudiant",
         "url": "http://www.jobaviz.fr/"
@@ -303,6 +432,9 @@
     "44": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
         "body": "La ville de Montpellier vous accompagne dans vos recherches",
         "url": "http://www.montpellier-jeunes-emploi.fr/"
@@ -310,6 +442,9 @@
     "45": {
         "title": "CRIJ",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
         "body": "Des offres adaptées en local",
         "url": "http://www.crij-montpellier.com/component/option,com_classifieds/Itemid,56/"
@@ -317,13 +452,19 @@
     "46": {
         "title": "PETITES ANNONCES",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Des offres d’emploi pour les étudiants seulement !",
+        "body": "Des offres d’emploi pour les étudiants seulement !",
         "url": "https://jobetudiant.net/"
     },
     "47": {
         "title": "L’ETUDIANT MAGAZINE",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://jobs-stages.letudiant.fr/jobs-etudiants/offres/ville-6454034/page-1.html"
@@ -331,6 +472,9 @@
     "48": {
         "title": "PETITES ANNONCES",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
         "body": "Le méta moteur dédié à la recherche d’emploi",
         "url": "http://www.indeed.fr/"
@@ -338,6 +482,9 @@
     "49": {
         "title": "POLE EMPLOI",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://www.pole-emploi.fr/accueil/"
@@ -345,27 +492,39 @@
     "50": {
         "title": "APEC",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Jeune diplômé ? L’APEC vous conseille !",
+        "body": "Jeune diplômé ? L’APEC vous conseille !",
         "url": "http://jd.apec.fr/Accueil/ApecIndexAccueil.jsp"
     },
     "51": {
         "title": "ANIMATION",
         "tagID": 8,
+        "tagName": "job",
+        "tagColor": "success",
+        "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Envie de passer le BAFA ? Financez votre formation !",
+        "body": "Envie de passer le BAFA ? Financez votre formation !",
         "url": "http://www.montpellier.fr/3852-aides-pour-les-jeunes.htm"
     },
     "52": {
         "title": "SÉCURITÉ SOCIALE",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
-        "body": "Sortez couverts !",
+        "body": "Sortez couverts !",
         "url": "http://www.ameli.fr/assures/droits-et-demarches/par-situation-professionnelle/vous-faites-des-etudes/vous-etes-etudiant/l-affiliation-a-la-securite-sociale-etudiante_herault.php"
     },
     "53": {
         "title": "MUTUELLE ÉTUDIANTE",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "LMDE",
         "url": "http://www.lmde.com/"
@@ -373,6 +532,9 @@
     "54": {
         "title": "MUTUELLE ÉTUDIANTE",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "MEP — Réseau EMEVIA",
         "url": "http://www.mep.fr/"
@@ -380,6 +542,9 @@
     "55": {
         "title": "COMPLÉMENTAIRE SANTÉ",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "Pour être mieux remboursé",
         "url": "http://www.cnous.fr/aides-sociales/sante-etudiants/etre-mieux-rembourse-souscrivez-complementaire-sante-facultative/"
@@ -387,13 +552,19 @@
     "56": {
         "title": "MÉDECINE PRÉVENTIVE",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
-        "body": "Etudiant à l’UM : des services gratuits pour votre santé",
+        "body": "Étudiant à l’UM : des services gratuits pour votre santé",
         "url": "http://www.umontpellier.fr/vie-etudiante/sante-social-handicap/"
     },
     "57": {
         "title": "SANTE-JEUNES",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "Le portail santé des jeunes",
         "url": "http://portail-sante-jeunes.fr/"
@@ -401,6 +572,9 @@
     "58": {
         "title": "FIL SANTÉ JEUNES",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "Pouvoir en parler pour ne pas perdre le fil",
         "url": "http://www.filsantejeunes.com/"
@@ -408,6 +582,9 @@
     "59": {
         "title": "HANDICAP",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "Demande de logement aux normes",
         "url": "http://www.crous-montpellier.fr/aides-sociales/handicap/"
@@ -415,6 +592,9 @@
     "60": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 9,
+        "tagName": "santé ",
+        "tagColor": "warning",
+        "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
         "body": "La Maison Prévention santé",
         "url": "http://www.montpellier.fr/3251-maison-de-la-prevention-sante-bis.htm"
@@ -422,13 +602,19 @@
     "61": {
         "title": "UNIVERSITÉ MONTPELLIER",
         "tagID": 10,
+        "tagName": "associations",
+        "tagColor": "primary",
+        "tagIcon": "icon-chat",
         "boxSize": "s",
-        "body": "Découvrez les associations du Campus !",
+        "body": "Découvrez les associations du Campus !",
         "url": "http://www.umontpellier.fr/vie-etudiante/vie-associative/catalogue-des-associations/"
     },
     "62": {
         "title": "ANIMAFAC",
         "tagID": 10,
+        "tagName": "associations",
+        "tagColor": "primary",
+        "tagIcon": "icon-chat",
         "boxSize": "s",
         "body": "Le site ressource pour les projets associatifs étudiants",
         "url": "http://www.animafac.net/"
@@ -436,6 +622,9 @@
     "63": {
         "title": "MONDE ASSOCIATIF",
         "tagID": 10,
+        "tagName": "associations",
+        "tagColor": "primary",
+        "tagIcon": "icon-chat",
         "boxSize": "s",
         "body": "Tout savoir sur la création d’association",
         "url": "http://www.associations.gouv.fr/191-creer-votre-association.html"
@@ -443,13 +632,19 @@
     "64": {
         "title": "INFO PRATIQUE",
         "tagID": 10,
+        "tagName": "associations",
+        "tagColor": "primary",
+        "tagIcon": "icon-chat",
         "boxSize": "s",
-        "body": "le guide pratique des associations",
+        "body": "Le guide pratique des associations",
         "url": "http://www.guidepratiqueasso.org/"
     },
     "65": {
         "title": "ASSOS MONTPELLIER",
         "tagID": 10,
+        "tagName": "associations",
+        "tagColor": "primary",
+        "tagIcon": "icon-chat",
         "boxSize": "s",
         "body": "L’annuaire des associations de Montpellier",
         "url": "http://assos.montpellier.fr/2898-annuaire-des-associations.htm"
@@ -457,6 +652,9 @@
     "66": {
         "title": "CROUS — PASS'CULTURE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "m",
         "body": "Le bon plan pour aller au ciné, aux concerts et aux spectacles pour pas cher",
         "url": "http://passculture.crous-montpellier.fr/"
@@ -464,13 +662,19 @@
     "67": {
         "title": "BIEN FAIT POUR VOUS !",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "m",
-        "body": "Le guide culturel des étudiants : toutes les salles et festivals sur Montpellier",
+        "body": "Le guide culturel des étudiants : toutes les salles et festivals sur Montpellier",
         "url": "http://passculture.crous-montpellier.fr/medias/Fichiers/culture/BFPV-2014-2015-bd.pdf"
     },
     "68": {
         "title": "CROUS — SERVICE CULTUREL",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "l",
         "body": "Ateliers, salle de spectacle, locaux de répétions… tous les services pour vos envies de culture",
         "url": "http://www.crous-montpellier.fr/culture/"
@@ -478,6 +682,9 @@
     "69": {
         "title": "UNIVERSITÉ DE MONTPELLIER",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "L’art et la culture au cœur de votre campus",
         "url": "http://www.umontpellier.fr/vie-etudiante/art-et-culture/"
@@ -485,6 +692,9 @@
     "70": {
         "title": "BIBLIOTHÈQUE UNIVERSITAIRE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Tous les services de la bibliothèque interuniversitaire de Montpellier",
         "url": "http://www.biu-montpellier.fr"
@@ -492,13 +702,19 @@
     "71": {
         "title": "UNIVERSITÉ PAUL VALERY",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
-        "body": "le centre culturel de l’université Paul Valery",
+        "body": "Le centre culturel de l’université Paul Valery",
         "url": "http://ccu.univ-montp3.fr/"
     },
     "72": {
         "title": "LET'S MOTIV",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Retrouvez toute l’actualité artistiques et culturelles de la ville",
         "url": "http://letsmotiv.fr/"
@@ -506,6 +722,9 @@
     "73": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "L’essentiel de la culture proposé par la Ville de Montpellier",
         "url": "http://www.montpellier.fr/3759-culture.htm"
@@ -513,6 +732,9 @@
     "74": {
         "title": "MAISONS POUR TOUS",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Un moteur de recherche pour trouver une activité au sein des MPT",
         "url": "http://www.montpellier.fr/3157-rechercher-une-activite.htm"
@@ -520,6 +742,9 @@
     "75": {
         "title": "CINÉMA DIAGONAL",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Le cinéma d’art et d’essai de Montpellier",
         "url": "http://www.cinediagonal.com/"
@@ -527,6 +752,9 @@
     "76": {
         "title": "ROCKSTORE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "La Salle de concert et club du centre-ville",
         "url": "http://www.rockstore.fr/"
@@ -534,6 +762,9 @@
     "77": {
         "title": "MONTPELLIER DANSE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "L’excellence de la danse à Montpellier",
         "url": "http://www.montpellierdanse.com/"
@@ -541,6 +772,9 @@
     "78": {
         "title": "DOMAINE D’O",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Domaine départemental d’art et de culture",
         "url": "http://www.domaine-do-34.eu/"
@@ -548,6 +782,9 @@
     "79": {
         "title": "THÉÂTRE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Humain Trop Humain : le théâtre qui détonne",
         "url": "www.humaintrophumain.fr"
@@ -555,6 +792,9 @@
     "80": {
         "title": "OPÉRA",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "Opéra et Orchestre National de Montpellier",
         "url": "http://www.opera-orchestre-montpellier.fr/"
@@ -562,6 +802,9 @@
     "81": {
         "title": "LA PANACÉE",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "l",
         "body": "Centre de culture contemporaine",
         "url": "http://lapanacee.org/fr"
@@ -569,6 +812,9 @@
     "82": {
         "title": "MÉDIATHÈQUES MONTPELLIER",
         "tagID": 11,
+        "tagName": "culture",
+        "tagColor": "danger",
+        "tagIcon": "icon-book",
         "boxSize": "s",
         "body": "le réseau des médiathèques de la métropole",
         "url": "http://www.montpellier-agglo.com/vivre-culture/r%C3%A9seau-des-m%C3%A9diath%C3%A8ques"
@@ -576,13 +822,19 @@
     "83": {
         "title": "UNIVERSITÉ MONTPELLIER",
         "tagID": 12,
+        "tagName": "sport",
+        "tagColor": "info",
+        "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
-        "body": "Restez en forme !",
+        "body": "Restez en forme !",
         "url": "http://www.umontpellier.fr/vie-etudiante/sport/"
     },
     "84": {
         "title": "MUC",
         "tagID": 12,
+        "tagName": "sport",
+        "tagColor": "info",
+        "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
         "body": "Découvrez le Montpellier Université Club",
         "url": "http://www.mucomnisports.fr/"
@@ -590,13 +842,19 @@
     "85": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 12,
+        "tagName": "sport",
+        "tagColor": "info",
+        "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
-        "body": "Le sport à la carte !",
+        "body": "Le sport à la carte !",
         "url": "http://www.montpellier.fr/484-carte-montpellier-sports.htm"
     },
     "86": {
         "title": "SPORT UNIVERSITAIRE",
         "tagID": 12,
+        "tagName": "sport",
+        "tagColor": "info",
+        "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
         "body": "Fédération Française du Sport Universitaire",
         "url": "http://www.sport-u-montpellier.com/cmsms_new/index.php"
@@ -604,6 +862,9 @@
     "87": {
         "title": "CAMPUSMAG LR",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le Mag TV de l’Enseignement supérieur et de la Recherche en Languedoc-Roussillon",
         "url": "http://campusmag-lr.pres-suddefrance.fr/"
@@ -611,13 +872,19 @@
     "88": {
         "title": "RADIO CAMPUS MONTPELLIER",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
-        "body": "L’expérience sonore !",
+        "body": "L’expérience sonore !",
         "url": "http://www.radiocampusmontpellier.fr/"
     },
     "89": {
         "title": "VOUS SAVEZ TOUT",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le Webzine de Montpellier",
         "url": "http://www.voussaveztout.com/"
@@ -625,6 +892,9 @@
     "90": {
         "title": "DIRECT MONTPELLIER PLUS",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://www.direct-montpellier-plus.com/"
@@ -632,6 +902,9 @@
     "91": {
         "title": "20 MINUTES",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://www.20minutes.fr/montpellier/"
@@ -639,6 +912,9 @@
     "92": {
         "title": "TV SUD",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le portail web d’informations 100 % dédié au Sud de la France",
         "url": "http://www.mediasdusud.fr/"
@@ -646,6 +922,9 @@
     "93": {
         "title": "FRANCE 3 RÉGION",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "L’actualité en Languedoc-Roussillon",
         "url": "http://france3-regions.francetvinfo.fr/languedoc-roussillon/montpellier"
@@ -653,6 +932,9 @@
     "94": {
         "title": "MIDI LIBRE",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://www.midilibre.fr/herault/montpellier/"
@@ -660,6 +942,9 @@
     "95": {
         "title": "GAZETTE DE MONTPELLIER",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "Le site officiel",
         "url": "http://www.lagazettedemontpellier.fr/"
@@ -667,6 +952,9 @@
     "96": {
         "title": "LET'S MOTIV",
         "tagID": 13,
+        "tagName": "medias",
+        "tagColor": "success",
+        "tagIcon": "icon-newspaper ",
         "boxSize": "s",
         "body": "L’actualité cultures et tendances urbaines",
         "url": "http://www.letsmotiv.com/"
@@ -674,62 +962,89 @@
     "97": {
         "title": "TAM",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer à Montpellier !",
+        "body": "Se déplacer à Montpellier !",
         "url": "http://www.tam-voyages.com/#"
     },
     "98": {
         "title": "MODULAUTO",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Une course à faire ? Empruntez une voiture !",
+        "body": "Une course à faire ? Empruntez une voiture !",
         "url": "http://www.modulauto.net/"
     },
     "99": {
         "title": "SNCF",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer en Languedoc-Roussillon !",
+        "body": "Se déplacer en Languedoc-Roussillon !",
         "url": "http://www.ter.sncf.com/languedoc-roussillon/"
     },
     "100": {
         "title": "SNCF — OUIGO",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Le train low cost!",
+        "body": "Le train low cost !",
         "url": ""
     },
     "101": {
         "title": "INTERAIL",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Visitez l’Europe en train !",
+        "body": "Visitez l’Europe en train !",
         "url": ""
     },
     "102": {
         "title": "AÉROPORT MONTPELLIER MÉDITERRANÉE",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer dans le monde entier !",
+        "body": "Se déplacer dans le monde entier !",
         "url": "http://www.montpellier.aeroport.fr/fr/passagers#"
     },
     "103": {
         "title": "EUROLINES",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Vsitez l’Europe en car !",
+        "body": "Vsitez l’Europe en car !",
         "url": "http://www.eurolines.fr/fr/"
     },
     "104": {
         "title": "COVOITURAGE",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer à plusieurs !",
+        "body": "Se déplacer à plusieurs !",
         "url": "https://www.blablacar.fr/"
     },
     "105": {
         "title": "LOCATION VOITURES",
         "tagID": 14,
+        "tagName": "transports",
+        "tagColor": "warning",
+        "tagIcon": "icon-bus ",
         "boxSize": "s",
         "body": "Location de voitures entre particuliers",
         "url": "http://fr.interrail.eu/"
@@ -737,13 +1052,19 @@
     "106": {
         "title": "CROUS",
         "tagID": 15,
+        "tagName": "bons plans",
+        "tagColor": "danger",
+        "tagIcon": "icon-star",
         "boxSize": "m",
-        "body": "Le Pass'Culture, une offre culturelle riche à des tarifs exceptionnels !",
+        "body": "Le Pass’Culture, une offre culturelle riche à des tarifs exceptionnels !",
         "url": "http://passculture.crous-montpellier.fr/mode-d-emploi-du-pass-culture_314"
     },
     "107": {
         "title": "VILLE DE MONTPELLIER",
         "tagID": 15,
+        "tagName": "bons plans",
+        "tagColor": "danger",
+        "tagIcon": "icon-star",
         "boxSize": "s",
         "body": "Tarifs préférentiels sport, loisir, culture",
         "url": "http://www.montpellier-agglo.com/conna%C3%AEtre-les-maisons-de-lagglom%C3%A9ration/la-carte-pass-m%C3%A9tropole"
@@ -751,6 +1072,9 @@
     "108": {
         "title": "CROUS",
         "tagID": 15,
+        "tagName": "bons plans",
+        "tagColor": "danger",
+        "tagIcon": "icon-star",
         "boxSize": "l",
         "body": "Découvrez notre offre de restauration à tarif social",
         "url": "http://www.crous-montpellier.fr/restauration/actualites/"
