@@ -8,7 +8,7 @@ $(function() {
 			percentPosition: true,
 		 	masonry: {
 			// use outer width of grid-sizer for columnWidth
-			columnWidth: '.col-md-3'
+			columnWidth: '.col-md-3',
 		  }
 	});
 	// $grid.isotope('shuffle');
