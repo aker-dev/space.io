@@ -14,21 +14,13 @@
 
 
 <div class="col-md-9 full-height">
+	<div class="page--title page--title_<%= locals.tagColor %>">
 
-	<% var pageTitleColor = tags[tagID].color ;
-	var pageTitleIcon = tags[tagID].icon ;
-	 var pageTitleTitle = tags[tagID].title; %>
-
-
-	<div class="page--title page--title_<%= pageTitleColor %>">
-
-		<div class="page--tag <%= pageTitleIcon %>"> <%= pageTitleTitle %> </div>
+		<div class="page--tag <%= locals.tagIcon %>"> <%= locals.tagName %> </div>
 
 		<h2><%= title %></h2>
 
 	</div>
-
-
 
 <div class="loader">
 <iframe src="<%= url %>" sandbox="allow-same-origin allow-forms"></iframe>
