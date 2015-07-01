@@ -26,7 +26,7 @@
         "tagColor": "primary",
         "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Caution Locative Etudiante : solution garantie !",
+        "body": "Caution Locative Etudiante : solution garantie !",
         "url": "http://www.lokaviz.fr/n/a-qui-s-adresse-la-cle/n:473"
     },
     "4": {
@@ -50,13 +50,13 @@
         "url": "http://www.logement.informationjeunesselr.fr/"
     },
     "6": {
-        "title": "ANIL /ADIL",
+        "title": "ANIL / ADIL",
         "tagID": 1,
         "tagName": "logement",
         "tagColor": "primary",
         "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Locataire : quels sont vos droits ?",
+        "body": "Locataire : quels sont vos droits ?",
         "url": "http://www.anil.org/profil/vous-etes-locataire/se-loger/"
     },
     "7": {
@@ -66,7 +66,7 @@
         "tagColor": "primary",
         "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "En recherche de logement ? Suivez le guide !",
+        "body": "En recherche de logement ? Suivez le guide !",
         "url": "http://www.espace-etudiant.com/guide_du_logement_etudiant.asp"
     },
     "8": {
@@ -76,7 +76,7 @@
         "tagColor": "primary",
         "tagIcon": "icon-building-filled ",
         "boxSize": "s",
-        "body": "Trouvez un coloc en quelques clics !",
+        "body": "Trouvez un coloc en quelques clics !",
         "url": "http://colocation-montpellier.net/"
     },
     "9": {
@@ -126,7 +126,7 @@
         "tagColor": "info",
         "tagIcon": "icon-euro",
         "boxSize": "l",
-        "body": "Étudier à l’étranger, préparer un concours : quelles aides ?",
+        "body": "Étudier à l’étranger, préparer un concours : quelles aides ?",
         "url": "http://www.crous-montpellier.fr/bourses/autres-aides-financieres/aides-non-gerees-par-le-crous/"
     },
     "14": {
@@ -146,7 +146,7 @@
         "tagColor": "info",
         "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "Etudiants en filières sanitaires et sociales",
+        "body": "Étudiants en filières sanitaires et sociales",
         "url": "http://www.laregion.fr/119-la-bourse-regionale-pour-les-formations-sanitaires-et-sociales.htm"
     },
     "16": {
@@ -166,7 +166,7 @@
         "tagColor": "info",
         "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "L’Etat vous accompagne !",
+        "body": "L’État vous accompagne !",
         "url": "http://vosdroits.service-public.fr/particuliers/F986.xhtml"
     },
     "18": {
@@ -176,7 +176,7 @@
         "tagColor": "info",
         "tagIcon": "icon-euro",
         "boxSize": "s",
-        "body": "Aide au permis B pour les Montpelliérains !",
+        "body": "Aide au permis B pour les Montpelliérains !",
         "url": "http://www.montpellier.fr/3852-aides-pour-les-jeunes.htm"
     },
     "19": {
@@ -306,7 +306,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-globe ",
         "boxSize": "s",
-        "body": "Devenez parrain ou marraine d’un étudiant !",
+        "body": "Devenez parrain ou marraine d’un étudiant !",
         "url": "http://www.parrainage-international.fr/"
     },
     "32": {
@@ -316,7 +316,7 @@
         "tagColor": "danger",
         "tagIcon": "icon-users ",
         "boxSize": "s",
-        "body": "Des questions sur vos études ? Le SCUIO y répond !",
+        "body": "Des questions sur vos études ? Le SCUIO y répond !",
         "url": "http://www.umontpellier.fr/formation/information-orientation-insertion/"
     },
     "33": {
@@ -396,7 +396,7 @@
         "tagColor": "info",
         "tagIcon": "icon-beaker",
         "boxSize": "s",
-        "body": "Un défi pour les doctorants !",
+        "body": "Un défi pour les doctorants !",
         "url": "http://mt180.fr/"
     },
     "41": {
@@ -456,7 +456,7 @@
         "tagColor": "success",
         "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Des offres d’emploi pour les étudiants seulement !",
+        "body": "Des offres d’emploi pour les étudiants seulement !",
         "url": "https://jobetudiant.net/"
     },
     "47": {
@@ -496,7 +496,7 @@
         "tagColor": "success",
         "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Jeune diplômé ? L’APEC vous conseille !",
+        "body": "Jeune diplômé ? L’APEC vous conseille !",
         "url": "http://jd.apec.fr/Accueil/ApecIndexAccueil.jsp"
     },
     "51": {
@@ -506,7 +506,7 @@
         "tagColor": "success",
         "tagIcon": "icon-suitcase",
         "boxSize": "s",
-        "body": "Envie de passer le BAFA ? Financez votre formation !",
+        "body": "Envie de passer le BAFA ? Financez votre formation !",
         "url": "http://www.montpellier.fr/3852-aides-pour-les-jeunes.htm"
     },
     "52": {
@@ -516,7 +516,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
-        "body": "Sortez couverts !",
+        "body": "Sortez couverts !",
         "url": "http://www.ameli.fr/assures/droits-et-demarches/par-situation-professionnelle/vous-faites-des-etudes/vous-etes-etudiant/l-affiliation-a-la-securite-sociale-etudiante_herault.php"
     },
     "53": {
@@ -556,7 +556,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-heartbeat ",
         "boxSize": "s",
-        "body": "Etudiant à l’UM : des services gratuits pour votre santé",
+        "body": "Étudiant à l’UM : des services gratuits pour votre santé",
         "url": "http://www.umontpellier.fr/vie-etudiante/sante-social-handicap/"
     },
     "57": {
@@ -606,7 +606,7 @@
         "tagColor": "primary",
         "tagIcon": "icon-chat",
         "boxSize": "s",
-        "body": "Découvrez les associations du Campus !",
+        "body": "Découvrez les associations du Campus !",
         "url": "http://www.umontpellier.fr/vie-etudiante/vie-associative/catalogue-des-associations/"
     },
     "62": {
@@ -636,7 +636,7 @@
         "tagColor": "primary",
         "tagIcon": "icon-chat",
         "boxSize": "s",
-        "body": "le guide pratique des associations",
+        "body": "Le guide pratique des associations",
         "url": "http://www.guidepratiqueasso.org/"
     },
     "65": {
@@ -666,7 +666,7 @@
         "tagColor": "danger",
         "tagIcon": "icon-book",
         "boxSize": "m",
-        "body": "Le guide culturel des étudiants : toutes les salles et festivals sur Montpellier",
+        "body": "Le guide culturel des étudiants : toutes les salles et festivals sur Montpellier",
         "url": "http://passculture.crous-montpellier.fr/medias/Fichiers/culture/BFPV-2014-2015-bd.pdf"
     },
     "68": {
@@ -706,7 +706,7 @@
         "tagColor": "danger",
         "tagIcon": "icon-book",
         "boxSize": "s",
-        "body": "le centre culturel de l’université Paul Valery",
+        "body": "Le centre culturel de l’université Paul Valery",
         "url": "http://ccu.univ-montp3.fr/"
     },
     "72": {
@@ -826,7 +826,7 @@
         "tagColor": "info",
         "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
-        "body": "Restez en forme !",
+        "body": "Restez en forme !",
         "url": "http://www.umontpellier.fr/vie-etudiante/sport/"
     },
     "84": {
@@ -846,7 +846,7 @@
         "tagColor": "info",
         "tagIcon": "icon-soccer-ball ",
         "boxSize": "s",
-        "body": "Le sport à la carte !",
+        "body": "Le sport à la carte !",
         "url": "http://www.montpellier.fr/484-carte-montpellier-sports.htm"
     },
     "86": {
@@ -876,7 +876,7 @@
         "tagColor": "success",
         "tagIcon": "icon-newspaper ",
         "boxSize": "s",
-        "body": "L’expérience sonore !",
+        "body": "L’expérience sonore !",
         "url": "http://www.radiocampusmontpellier.fr/"
     },
     "89": {
@@ -966,7 +966,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer à Montpellier !",
+        "body": "Se déplacer à Montpellier !",
         "url": "http://www.tam-voyages.com/#"
     },
     "98": {
@@ -976,7 +976,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Une course à faire ? Empruntez une voiture !",
+        "body": "Une course à faire ? Empruntez une voiture !",
         "url": "http://www.modulauto.net/"
     },
     "99": {
@@ -986,7 +986,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer en Languedoc-Roussillon !",
+        "body": "Se déplacer en Languedoc-Roussillon !",
         "url": "http://www.ter.sncf.com/languedoc-roussillon/"
     },
     "100": {
@@ -996,7 +996,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Le train low cost!",
+        "body": "Le train low cost !",
         "url": ""
     },
     "101": {
@@ -1006,7 +1006,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Visitez l’Europe en train !",
+        "body": "Visitez l’Europe en train !",
         "url": ""
     },
     "102": {
@@ -1016,7 +1016,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer dans le monde entier !",
+        "body": "Se déplacer dans le monde entier !",
         "url": "http://www.montpellier.aeroport.fr/fr/passagers#"
     },
     "103": {
@@ -1026,7 +1026,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Vsitez l’Europe en car !",
+        "body": "Vsitez l’Europe en car !",
         "url": "http://www.eurolines.fr/fr/"
     },
     "104": {
@@ -1036,7 +1036,7 @@
         "tagColor": "warning",
         "tagIcon": "icon-bus ",
         "boxSize": "s",
-        "body": "Se déplacer à plusieurs !",
+        "body": "Se déplacer à plusieurs !",
         "url": "https://www.blablacar.fr/"
     },
     "105": {
@@ -1056,7 +1056,7 @@
         "tagColor": "danger",
         "tagIcon": "icon-star",
         "boxSize": "m",
-        "body": "Le Pass'Culture, une offre culturelle riche à des tarifs exceptionnels !",
+        "body": "Le Pass’Culture, une offre culturelle riche à des tarifs exceptionnels !",
         "url": "http://passculture.crous-montpellier.fr/mode-d-emploi-du-pass-culture_314"
     },
     "107": {
