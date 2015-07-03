@@ -5,7 +5,6 @@ $(function() {
 
 	idleReset(180000);
 
-
 	$grid.isotope({
 		itemSelector: '.card',
 			percentPosition: true,
@@ -43,9 +42,6 @@ $(function() {
 	});
 
 });
-            
-
-
 
 function idleReset(time) {
     var t;
