@@ -3,6 +3,8 @@ var $grid = $('.grid').isotope();
 
 $(function() {
 
+	idleReset(180000);
+
 	$grid.isotope({
 		itemSelector: '.card',
 			percentPosition: true,
@@ -40,7 +42,23 @@ $(function() {
 	});
 
 });
-            
 
+function idleReset(time) {
+    var t;
+    window.onload = resetTimer;
+    window.onmousemove = resetTimer;
+    window.onmousedown = resetTimer; // catches touchscreen presses
+    window.onclick = resetTimer;     // catches touchpad clicks
+    window.onscroll = resetTimer;    // catches scrolling with arrow keys
+    window.onkeypress = resetTimer;
 
+    function backHome() {
+    	location.reload();
+       	console.log("idle for " + time);
+    }
 
+    function resetTimer() {
+        clearTimeout(t);
+        t = setTimeout(backHome, time);  // time is in milliseconds
+    }
+}
