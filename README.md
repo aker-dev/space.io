@@ -17,3 +17,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 * Bootstrap › http://getbootstrap.com/
 * jQuery › http://jquery.com/
 * Isotope › http://isotope.metafizzy.co/
+
+## Published files
+Rendered HTML, CSS and JS files are here on the www branch.
+http://github.com/zakxxi/space.io/tree/www
