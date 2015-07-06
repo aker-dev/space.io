@@ -3,7 +3,7 @@ var $grid = $('.grid').isotope();
 
 $(function() {
 
-	idleReset(180000);
+//	idleReset(180000);
 
 	$grid.isotope({
 		itemSelector: '.card',
