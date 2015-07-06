@@ -1,0 +1,326 @@
+@import "bootstrap/_less/bootstrap";
+
+/*
+FONTELLO
+*/
+@font-face {
+  font-family: 'space-icons';
+  src: url('fontello/space-icons.eot?41885218');
+  src: url('fontello/space-icons.eot?41885218#iefix') format('embedded-opentype'),
+       url('fontello/space-icons.woff?41885218') format('woff'),
+       url('fontello/space-icons.ttf?41885218') format('truetype'),
+       url('fontello/space-icons.svg?41885218#space-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'space-icons';
+    src: url('../font/space-icons.svg?41885218#space-icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "space-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-bus:before { content: '\e801'; } /* '' */
+.icon-euro:before { content: '\e802'; } /* '' */
+.icon-heartbeat:before { content: '\e803'; } /* '' */
+.icon-graduation-cap:before { content: '\e804'; } /* '' */
+.icon-newspaper:before { content: '\e805'; } /* '' */
+.icon-soccer-ball:before { content: '\e806'; } /* '' */
+.icon-chat:before { content: '\e807'; } /* '' */
+.icon-users:before { content: '\e808'; } /* '' */
+.icon-globe:before { content: '\e809'; } /* '' */
+.icon-star:before { content: '\e80a'; } /* '' */
+.icon-building-filled:before { content: '\e80b'; } /* '' */
+.icon-spin3:before { content: '\e80c'; } /* '' */
+.icon-book:before { content: '\e80e'; } /* '' */
+.icon-forward:before { content: '\e80f'; } /* '' */
+.icon-beaker:before { content: '\e810'; } /* '' */
+.icon-thumbs-up-alt:before { content: '\e811'; } /* '' */
+.icon-suitcase:before { content: '\e812'; } /* '' */
+
+/*
+COLOR VARIABLES
+*/
+@topbar-bg-color: rgba(33,74,104,0.6);
+@card-bg-color: #fff;
+@background: #214a68;
+@dev-hl: yellow;
+
+/*
+SIZE VARIABLES
+*/
+@topbar-height: 150px;
+@card-base-height: 300px;
+@offset-default: 30px;
+@offset-mini: @offset-default/2;
+
+/*
+DEV STYLES
+
+div {
+	box-sizing:border-box;
+	border: 1px dashed #000;
+}
+*/
+
+
+/*
+GLOBAL
+*/
+body {
+	margin-top: @topbar-height;
+  background-color: @background;
+  overflow:hidden-scroll;
+  user-select: none;
+}
+
+
+.topbar {
+	position: fixed;
+  padding-top: @offset-default;
+	min-height: @topbar-height;
+	background-color: @topbar-bg-color;
+
+
+  .logo {
+    margin-top: -15px;
+    }
+
+  .btn {
+  font-family: @bariol-bold;
+  text-transform: uppercase;
+  margin-left: @offset-mini;
+  margin-bottom: @offset-mini;
+}
+}
+
+.main {
+  padding-top: @offset-default;
+}
+
+
+
+
+.loader {
+  background:url(../images/ajax-loader.gif) center center no-repeat;
+  background-color: white;
+}
+
+.btn-page {
+  position: absolute;
+  bottom: 45px;
+  right: 30px;
+  width: 60px;
+  height: 60px;
+  padding: 10px 16px;
+  border-radius: 120px;
+
+
+}
+
+.btn-home.icon-home {
+        font-size: 60px;
+        padding-top: 15px;
+    }
+
+.btn-home {
+    margin-top: 300px;
+    margin-bottom: 30px;
+
+    width: 120px;
+    height: 120px;
+    border-radius: 240px;
+}
+
+.btn-page.icon-forward:before {
+  font-size: 30px;
+  padding-top: 5px;
+  margin-left: 0;
+}
+
+.full-screen {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    top: 0;
+    left: 0;
+}
+/*
+CARDS
+*/
+.card {
+	position: relative;
+}
+
+.card--body {
+	background-color: @card-bg-color;
+  margin-bottom: @offset-default;
+  border-bottom-left-radius: @offset-mini;
+  border-bottom-right-radius: @offset-mini;
+//  box-shadow: 0px 0px 20px 0px @gray-dark;
+}
+
+.card--body_s {
+	height: @card-base-height;
+
+  .card--body--description {
+    font-family: @bariol-light;
+    font-size: 36px;
+  }
+}
+
+.card--body_m {
+	height: @card-base-height*2+@offset-default;
+
+    .card--body--description {
+    font-family: @bariol-light;
+    font-size: 48px;
+  }
+}
+
+.card--body_l {
+	height: @card-base-height;
+
+    .card--body--description {
+    font-family: @bariol-light;
+    font-size: 42px;
+  }
+}
+
+.card--body_xl {
+	height: @card-base-height*2+@offset-default;
+    
+    .card--body--description {
+      margin-top: 30px;
+
+         p {
+          font-family: @bariol;
+          font-size: 24px;
+        }
+
+         p.lead {
+          font-family: @bariol-bold;
+          font-size: 36px;
+        }
+
+
+    }
+  }
+
+.page--title {
+    border-top-left-radius: @offset-mini;
+  border-top-right-radius: @offset-mini;
+}
+
+.card--body--title, .page--title {
+  min-height: 50px;
+  text-transform: uppercase;
+  padding: 10px;
+  color: white;
+}
+
+.card--body--title h2,  .page--title h2 {
+  margin-top: 5px;
+}
+
+.card--body--description {
+    padding: 15px;
+}
+
+.card--body--title_primary, .page--title_primary {
+  background-color: @brand-primary;
+  border-bottom: 1px solid darken(@brand-primary, 12%);
+}
+
+.card--body--title_success, .page--title_success {
+  background-color: @brand-success;
+  border-bottom: 1px solid darken(@brand-success, 12%);
+
+}
+
+.card--body--title_info, .page--title_info {
+  background-color: @brand-info;
+  border-bottom: 1px solid darken(@brand-info, 12%);
+
+}
+
+.card--body--title_warning, .page--title_warning {
+  background-color: @brand-warning;
+  border-bottom: 1px solid darken(@brand-warning, 12%);
+
+}
+
+.card--body--title_danger, .page--title_danger {
+  background-color: @brand-danger;
+  border-bottom: 1px solid darken(@brand-danger, 12%);
+
+}
+
+.card--tag, .page--tag {
+  font-size: 18px;
+}
+
+/*
+MODAM
+*/
+
+.modal-body {
+  background-color: @background;
+}
+
+/*
+PAGES
+*/
+
+
+iframe {
+	width: 100%;
+  height: 950px;
+  border: 0;
+ // background-color: white;
+  overflow-y: hidden;
+}
+
+@media only screen {
+    @-ms-viewport { width: 1920px; }
+}

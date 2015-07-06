@@ -7,30 +7,80 @@
 
     "tags": {
 	  	"1" : {
-	  		"title": "mon super tag",
-	  		"color": "primary",
-	  		"icon": "icon-bus"
+	  		"title": "logement",
+	  		"color": "info",
+	  		"icon": "icon-building-filled"
 	  	},
 	  	"2" : {
-	  		"title": "tag 2",
-	  		 "color": "info",
-	  		"icon": "icon-bank"
+	  		"title": "aides financières",
+	  		 "color": "primary",
+	  		"icon": "icon-euro"
 	  	},
 	  	"3" : {
-	  		"title": "tag 3 plus long",
+	  		"title": "action sociale",
 	  		"color": "success",
-	  		"icon": "icon-chat-empty"
+	  		"icon": "icon-thumbs-up-alt"
 	  	},
 	  	"4" : {
-	  		"title": "tag 4",
+	  		"title": "international",
 	  		"color": "warning",
-	  		"icon": "icon-soccer-ball"
+	  		"icon": "icon-globe"
 	  	},
 	  	"5" : {
-	  		"title": "tag 5 plus long",
+	  		"title": "orientation / insertion",
 	  		"color": "danger",
-	  		"icon": "icon-food"
-	  	}    	  	
+	  		"icon": "icon-users"
+	  	},
+	  	"6" : {
+	  		"title": "formation",
+	  		"color": "primary",
+	  		"icon": "icon-graduation-cap"
+	  	},
+	  	"7" : {
+	  		"title": "recherche",
+	  		"color": "info",
+	  		"icon": "icon-beaker"
+	  	},
+	  	"8" : {
+	  		"title": "job",
+	  		"color": "success",
+	  		"icon": "icon-suitcase"
+	  	},
+	  	"9" : {
+	  		"title": "santé",
+	  		"color": "warning",
+	  		"icon": "icon-heartbeat"
+	  	},
+	  	"10" : {
+	  		"title": "associations",
+	  		"color": "primary",
+	  		"icon": "icon-chat"
+	  	},
+	  	"11" : {
+	  		"title": "culture",
+	  		"color": "danger",
+	  		"icon": "icon-book"
+	  	},
+	  	"12" : {
+	  		"title": "sport",
+	  		"color": "info",
+	  		"icon": "icon-soccer-ball"
+	  	},
+	  	"13" : {
+	  		"title": "medias",
+	  		"color": "success",
+	  		"icon": "icon-newspaper"
+	  	},
+	  	"14" : {
+	  		"title": "transports",
+	  		"color": "warning",
+	  		"icon": "icon-bus"
+	  	},
+	  	"15" : {
+	  		"title": "bons plans",
+	  		"color": "danger",
+	  		"icon": "icon-star"
+	  	}
 	  }
   }
 }

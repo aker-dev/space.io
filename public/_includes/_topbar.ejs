@@ -1,17 +1,19 @@
 <div class="topbar container-fluid navbar-fixed-top">
     <div class="row">
-        <div class="col-md-4" data-pg-collapsed>
-            <a class="navbar-brand" href="#">(S)PACE CROUS</a>                      
+        <div class="col-md-3" data-pg-collapsed>
+            <img src = "images/index-logo.svg" class="img-responsive logo" width="600" height="160"/>
         </div>
-        <div class="col-md-8 text-right">
-            <a class="btn btn-tag btn-default btn-lg tag-id-all icon-home" href="#">All</a>
+        <div class="col-md-9">
+            <a class="btn btn-tag btn-default btn-lg tag-id-all icon-home" href="#">Tous</a>
 
             <%
             for(var tag in tags){ %>
-                <a class="btn btn-tag btn-lg btn-<%= tags[tag].color %> tag-id-<%= tag %> <%= tags[tag].icon %>" data-tag-id="<%= tag %>" href="#"> <%= tags[tag].title %> </a>
+                <a class="btn btn-tag btn-lg btn-<%= tags[tag].color %> tag-id-<%= tag %> <%= tags[tag].icon %>" data-tag-id="<%= tag %>"> <%= tags[tag].title %> </a>
             <% };
             %>         
 
         </div>
     </div>
 </div>
+
+
