@@ -346,7 +346,7 @@
         "tagColor": "danger",
         "tagIcon": "icon-users ",
         "boxSize": "s",
-        "body": "",
+        "body": "Le Pôle Étudiant pour l'Innovation, le Transfert et l'Entrepreneuriat en Languedoc Roussillon ",
         "url": "http://www.pepite-lr.fr/"
     },
     "36": {
@@ -1085,7 +1085,7 @@
         "tagName": "bons plans",
         "tagColor": "danger",
         "tagIcon": "icon-star",
-        "boxSize": "m",
+        "boxSize": "l",
         "body": "Un accès simplifié aux services de la vie étudiante",
         "url": "https://www.portail-vie-etudiante.fr/envole/portal/index.php#tab/1"
     }
