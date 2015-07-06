@@ -1,4 +1,4 @@
-(S)PACE CROUS
+(S)PACE CROUS – L'INDEX
 =============================================================================
 v. 1.0.0
 by adrien revel
@@ -15,5 +15,5 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 * EJS › http://www.embeddedjs.com/
 * JSON › http://json.org/
 * Bootstrap › http://getbootstrap.com/
-* jQuery › https://jquery.com/
-* Isotope › isotope.metafizzy.co/
+* jQuery › http://jquery.com/
+* Isotope › http://isotope.metafizzy.co/
